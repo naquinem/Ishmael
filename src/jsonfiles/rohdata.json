@@ -1,0 +1,46 @@
+[
+
+    {
+        "id": 1,
+        "quarter": "Q122",
+        "workWeek": "2201",
+        "totalOutput": "441",
+        "totalHeadcount": "27",
+        "goal": "51"
+    },
+    {
+        "id": 2,
+        "quarter": "Q122",
+        "workWeek": "2202",
+        "totalOutput": "225",
+        "totalHeadcount": "27",
+        "goal": "51"
+    },
+    {
+        "id": 3,
+        "quarter": "Q122",
+        "workWeek": "2203",
+        "totalOutput": "444",
+        "totalHeadcount": "27",
+        "goal": "51"
+    },
+    {
+        "id": 4,
+        "quarter": "Q122",
+        "workWeek": "2204",
+        "totalOutput": "244",
+        "totalHeadcount": "27",
+        "goal": "51"
+    },
+    {
+        "id": 5,
+        "quarter": "Q122",
+        "workWeek": "2205",
+        "totalOutput": "476",
+        "totalHeadcount": "27",
+        "goal": "51"
+    }
+
+]
+
+
